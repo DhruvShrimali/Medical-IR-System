@@ -11,7 +11,7 @@ pip install pymupdf
 pip install transformers
 ```
 
-Then run the server code on a GPU server
+Then run the server code on a GPU server<br>
 Note: Ensure to add your hugging face token to server code
 ```
 python server.py
