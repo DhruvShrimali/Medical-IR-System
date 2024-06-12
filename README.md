@@ -14,7 +14,7 @@ pip install transformers
 Then run the server code on a GPU server<br>
 Note: Ensure to add your hugging face token to server code
 ```
-python server.py
+python IR_server.py
 ```
 
 # Further Information
