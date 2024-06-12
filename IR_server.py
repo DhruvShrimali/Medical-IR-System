@@ -14,7 +14,7 @@ app.config['UPLOAD_FOLDER'] = 'uploads'
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 # Authenticate with your Hugging Face API token
-login(token="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")
+login(token="hf_YOURTOKEN")
 
 
 model_name = "ruslanmv/Medical-Llama3-8B"
